@@ -22,8 +22,8 @@
   "dependencies": {
     "mongoose": "^8.4.4",
     "reflect-metadata": "^0.2.2",
-    "mysql2": "3.10.1",
-    "publish": "0.0.1"
+    "mysql2": "3.10.2",
+    "publish": "1.0.0"
   },
   "jest": {
     "moduleFileExtensions": [
