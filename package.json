@@ -23,7 +23,7 @@
     "mongoose": "6.5.0",
     "reflect-metadata": "0.2.1",
     "mysql2": "3.6.0",
-    "@sentry/react-native": "5.16.0"
+    "@sentry/react-native": "5.19.1"
   },
   "jest": {
     "moduleFileExtensions": [
