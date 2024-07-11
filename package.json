@@ -20,7 +20,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "mongoose": "5.3.3",
+    "mongoose": "6.5.0",
     "reflect-metadata": "0.2.1",
     "mysql2": "3.6.0",
     "@sentry/react-native": "5.16.0"
